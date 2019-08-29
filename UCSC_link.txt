@@ -1,3 +1,39 @@
 browser position chr3R:30841574-30867734
 
-track type=bigWig name=iLID_NoLight_ChIP description=PolII_ChIP_nolight autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=153,50,204 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_NoLight_ChIP.bigWig
+track type=bigWig name=iLID_NoLight_ChIP description=PolII_ChIP_nolight autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=153,50,204 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_NoLight_ChIP.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_NoLight_Input description=PolII_Input_nolight autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=153,50,204 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_NoLight_Input.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_5min_ChIP description=PolII_ChIP_5min autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=106,90,205 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_5min_ChIP.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_5min_Input description=PolII_Input_5min autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=106,90,205 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_5min_Input.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_10min_ChIP description=PolII_ChIP_10min autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=0,255,0 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_10min_ChIP.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_10min_Input description=PolII_Input_10min autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=0,255,0 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_10min_Input.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_30min_ChIP description=PolII_ChIP_30min autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=255,0,0 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_30min_ChIP.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_30min_Input description=PolII_Input_30min autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=255,0,0 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_30min_Input.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_nolight_IGG_ChIP description=PolII_ChIP_nolight_IGG autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=65,224,208 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_NoLight_Igg_ChIP.bigWig?raw=true
+
+browser position chr3R:30841574-30867734
+
+track type=bigWig name=iLID_nolight_IGG_Input description=PolII_Input_nolight_IGG autoScale=off alwaysZero=on maxHeightPixels=50 viewLimits=0:45 visibility=full color=65,224,208 smoothingWindow=2 windowingFunction=mean bigDataUrl=https://github.com/keenansh/Pol-II-Opto-ChIP/blob/master/iLID_NoLight_Igg_Input.bigWig?raw=true
